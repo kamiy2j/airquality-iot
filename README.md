@@ -24,13 +24,13 @@ Data is transmitted to a Raspberry Pi running an MQTT server (Mosquitto). A mach
 ![WhatsApp Image 2025-03-14 at 17 12 12_cc341ec2](https://github.com/user-attachments/assets/8e0bfa1d-c917-4537-ab39-6575f57ada09)
 ![WhatsApp Image 2025-03-14 at 17 12 12_572288d4](https://github.com/user-attachments/assets/76608dfb-e15b-45d8-a874-3320b2dea4e9)
 
-### 🎥 Demo Video
+### 🎥 Project Demo Video
 
-[Watch the demo on YouTube](https://www.youtube.com/watch?v=jAZZ5G1qESE)
+### [Watch the project demo on YouTube](https://www.youtube.com/watch?v=jAZZ5G1qESE)
 
 ### 🎥 Smoke Test Demo Video
 
-[Watch the demo on YouTube](https://youtu.be/3PZZA9dqgik)
+### [Watch the smoke test demo on YouTube](https://youtu.be/3PZZA9dqgik)
 
 ### 🚀 Features
 
