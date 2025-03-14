@@ -73,10 +73,3 @@ This system enables proactive management of air quality, reducing health risks a
 - Machine Learning: TensorFlow Lite model predicts ventilation needs on Raspberry Pi.
 
 - Storage & Visualization: Data and predictions stored in InfluxDB and visualized with Grafana.
-
-### 📂 Project Structure
-- `arduino_code/`: ESP32 firmware (sensor reading & MQTT communication)
-
-- `ml_model/`: Scripts for ML model training
-
-- `raspberry_pi/`: Python scripts for real-time prediction and data handling
