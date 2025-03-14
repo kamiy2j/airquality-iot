@@ -4,10 +4,6 @@
 Kamran Shahid - 29457
 
 Muhammad Maaz Arsalan Batla - 22794
-![WhatsApp Image 2025-03-14 at 17 12 13_2204669a](https://github.com/user-attachments/assets/e3f72386-2b8c-4a77-a25d-cf5109ae8b9a)
-![WhatsApp Image 2025-03-14 at 17 12 12_cc341ec2](https://github.com/user-attachments/assets/8e0bfa1d-c917-4537-ab39-6575f57ada09)
-![WhatsApp Image 2025-03-14 at 17 12 12_572288d4](https://github.com/user-attachments/assets/76608dfb-e15b-45d8-a874-3320b2dea4e9)
-
 
 
 ### 📖 Description
@@ -23,6 +19,10 @@ This project monitors indoor air quality and predicts ventilation needs using Io
 - 💨 Volatile Organic Compounds (VOCs)
 
 Data is transmitted to a Raspberry Pi running an MQTT server (Mosquitto). A machine learning model built with TensorFlow Lite predicts ventilation needs, and data is stored and visualized using InfluxDB and Grafana.
+
+![WhatsApp Image 2025-03-14 at 17 12 13_2204669a](https://github.com/user-attachments/assets/e3f72386-2b8c-4a77-a25d-cf5109ae8b9a)
+![WhatsApp Image 2025-03-14 at 17 12 12_cc341ec2](https://github.com/user-attachments/assets/8e0bfa1d-c917-4537-ab39-6575f57ada09)
+![WhatsApp Image 2025-03-14 at 17 12 12_572288d4](https://github.com/user-attachments/assets/76608dfb-e15b-45d8-a874-3320b2dea4e9)
 
 ### 🎥 Demo Video
 
