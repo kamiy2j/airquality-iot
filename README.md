@@ -86,7 +86,6 @@ This system enables proactive management of air quality, reducing health risks a
 ![Screenshot 2025-03-14 162434](https://github.com/user-attachments/assets/3b0afc60-85ec-40d9-b24a-dce49df52711)
 
 ![Screenshot 2025-03-14 162839](https://github.com/user-attachments/assets/c3533b64-3c86-4435-bf7e-35e3b015ce76)
-![Screenshot 2025-03-14 163120](https://github.com/user-attachments/assets/0e8be430-1da9-4250-93de-072bb5f6867b)
 ![Screenshot 2025-03-14 163128](https://github.com/user-attachments/assets/232e6dc6-8d19-4076-acf6-9e14d22aeb50)
 
 
