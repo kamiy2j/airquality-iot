@@ -26,7 +26,7 @@ Data is transmitted to a Raspberry Pi running an MQTT server (Mosquitto). A mach
 
 ### 🎥 Demo Video
 
-[Watch the demo on YouTube](https://youtu.be/JR_lew51vHkd)
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=jAZZ5G1qESE)
 
 ### 🚀 Features
 
