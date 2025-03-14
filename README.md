@@ -28,6 +28,10 @@ Data is transmitted to a Raspberry Pi running an MQTT server (Mosquitto). A mach
 
 [Watch the demo on YouTube](https://www.youtube.com/watch?v=jAZZ5G1qESE)
 
+### 🎥 Smoke Test Demo Video
+
+[Watch the demo on YouTube](https://youtu.be/3PZZA9dqgik)
+
 ### 🚀 Features
 
 - Real-Time Monitoring of air quality parameters.
