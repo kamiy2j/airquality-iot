@@ -41,7 +41,7 @@ Data is transmitted to a Raspberry Pi running an MQTT server (Mosquitto). A mach
 ### 🛠️ Technology Stack
 - **Microcontroller:** ESP32
 
-- **Sensors: **MQ-135 (VOC), DHT22 (Temperature & Humidity), PMS5003 (PM2.5)
+- **Sensors:** MQ-135 (VOC), DHT22 (Temperature & Humidity), PMS5003 (PM2.5)
 
 - **Communication Protocol:** MQTT (Mosquitto)
 
@@ -49,7 +49,7 @@ Data is transmitted to a Raspberry Pi running an MQTT server (Mosquitto). A mach
 
 - **Database:** InfluxDB
 
-- Visualization: Grafana
+- **Visualization:** Grafana
 
 ### 💡 Why this Project?
 
