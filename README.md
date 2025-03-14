@@ -39,15 +39,15 @@ Data is transmitted to a Raspberry Pi running an MQTT server (Mosquitto). A mach
 - Efficient Data Storage with InfluxDB.
 
 ### 🛠️ Technology Stack
-- Microcontroller: ESP32
+- **Microcontroller:** ESP32
 
-- Sensors: MQ-135 (VOC), DHT22 (Temperature & Humidity), PMS5003 (PM2.5)
+- **Sensors: **MQ-135 (VOC), DHT22 (Temperature & Humidity), PMS5003 (PM2.5)
 
-- Communication Protocol: MQTT (Mosquitto)
+- **Communication Protocol:** MQTT (Mosquitto)
 
-- Machine Learning Framework: TensorFlow Lite
+- **Machine Learning Framework:** TensorFlow Lite
 
-- Database: InfluxDB
+- **Database:** InfluxDB
 
 - Visualization: Grafana
 
@@ -66,10 +66,10 @@ Proper ventilation ensures a healthy indoor environment, boosting productivity, 
 This system enables proactive management of air quality, reducing health risks and enhancing energy efficiency.
 
 ### 🔍 How it Works
-- Data Collection: Sensors connected to ESP32 gather air quality data every 3 seconds.
+- **Data Collection:** Sensors connected to ESP32 gather air quality data every 3 seconds.
 
-- Data Transmission: ESP32 sends data as JSON via MQTT to a Raspberry Pi.
+- **Data Transmission:** ESP32 sends data as JSON via MQTT to a Raspberry Pi.
 
-- Machine Learning: TensorFlow Lite model predicts ventilation needs on Raspberry Pi.
+- **Machine Learning:** TensorFlow Lite model predicts ventilation needs on Raspberry Pi.
 
-- Storage & Visualization: Data and predictions stored in InfluxDB and visualized with Grafana.
+- **Storage & Visualization:** Data and predictions stored in InfluxDB and visualized with Grafana.
